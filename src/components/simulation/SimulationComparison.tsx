@@ -221,7 +221,7 @@ ${comparisonData.map((sim, idx) => `
               </div>
             ) : (
               <p className="text-gray-500 text-sm">
-                비교할 시뮬레이션을 선택한 후 "AI 분석 시작" 버튼을 클릭하세요.
+                비교할 시뮬레이션을 선택한 후 &quot;AI 분석 시작&quot; 버튼을 클릭하세요.
               </p>
             )}
           </CardContent>
